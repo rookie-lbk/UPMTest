@@ -1,11 +1,11 @@
 {
     "name": "com.centurygame.mymotion",
     "displayName": "MyMotion",
-    "version": "1.0.3",
+    "version": "1.0.6",
     "unity": "2018.3",
     "description": "",
     "license": "MIT",
     "dependencies": {
-        "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/UnityPackageManager.git#1.0.3"
+        "com.centurygame.myrotate": "https://github.com/ShallowSingFuture/MyRotate.git#1.0.6"
     }
 }
