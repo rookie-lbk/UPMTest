@@ -1,19 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using CenturyGame.MyMotion;
 using UnityEngine;
-// using CenturyGame.MyRotate;
 
 public class test : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        // MyRotate myRotate;
+        this.gameObject.AddComponent<MyMotion>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
