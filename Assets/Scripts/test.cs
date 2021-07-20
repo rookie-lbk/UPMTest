@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using CenturyGame.MyMotion;
+using CenturyGame.MyRotate;
 using UnityEngine;
 
 public class test : MonoBehaviour
@@ -9,6 +10,7 @@ public class test : MonoBehaviour
     void Start()
     {
         this.gameObject.AddComponent<MyMotion>();
+        this.gameObject.AddComponent<MyRotate>();
     }
 
     // Update is called once per frame

@@ -55,16 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\test.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/StudyData/ShareProject-diandian/UPMTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/StudyData/ShareProject-diandian/UPM/UPMTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/StudyData/ShareProject-diandian/UPMTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/StudyData/ShareProject-diandian/UPM/UPMTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/StudyData/ShareProject-diandian/UPMTest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/StudyData/ShareProject-diandian/UPM/UPMTest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/StudyData/ShareProject-diandian/UPMTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/StudyData/ShareProject-diandian/UPM/UPMTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/Unity Hub/2018.4.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
